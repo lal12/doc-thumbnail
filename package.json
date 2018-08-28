@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A generator for thumbnails of document and image files.",
   "main": "index.js",
+  "repository": "https://github.com/lal12/doc-thumbnail",
   "scripts": {
     "test": "echo \"no test command\" && false"
   },
@@ -18,10 +19,6 @@
   ],
   "author": "Luca Lindhorst <info@lucalindhorst.de>",
   "license": "MIT",
-  "devDependencies": {
-    "@types/node": "^10.9.2",
-    "@types/which": "^1.3.1"
-  },
   "dependencies": {
     "isexe": "^2.0.0",
     "which": "^1.3.1"
