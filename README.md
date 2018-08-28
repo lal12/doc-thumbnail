@@ -3,6 +3,10 @@
 This utility creates a preview thumbnail from a document.
 It requires `unoconv` and ImageMagick (`convert`) to be installed.
 
+## Install
+
+	npm i doc-thumbnail
+
 ## API
 
 	interface BaseConfig{
